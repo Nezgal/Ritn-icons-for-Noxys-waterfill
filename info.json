@@ -1,0 +1,13 @@
+{
+	"name": "Ritn-icons-for-Noxys-waterfill",
+	"version": "1.0",
+	"factorio_version": "2.0",
+	"title": "Ritn icons for Noxys Waterfill",
+	"author": "Nezgal",
+	"homepage": "https://github.com/Nezgal/Ritn-icons-for-Noxys-waterfill",
+	"description": "Replaces Noxys waterfill icons by those of Ritn waterfill mod. All credit to these mods authors.",
+	"dependencies": [
+		"base >= 2.0",
+		"Noxys_Waterfill"
+	]
+}
